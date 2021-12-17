@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @llimonio
-- 👀 I’m interested in .NET development
 - 🌱 I’m currently learning .NET, RoR, and Lua
 
 <!---
